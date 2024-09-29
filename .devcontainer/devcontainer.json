@@ -1,4 +1,13 @@
 {
     "name": "My AI Journey",
-    "image":"mcr.microsoft.com/devcontainers/universal:2"
+    "image": "mcr.microsoft.com/devcontainers/universal:2",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-dotnettools.dotnet-interactive-vscode",
+                "GitHub.copilot-chat"
+            ]
+        }
+    }
 }
