@@ -7,7 +7,8 @@
             "extensions": [
                 "ms-python.python",
                 "ms-dotnettools.dotnet-interactive-vscode",
-                "GitHub.copilot-chat"
+                "GitHub.copilot-chat",
+                "ms-dotnettools.csdevkit"
             ]
         }
     },
